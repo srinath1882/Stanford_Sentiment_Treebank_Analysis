@@ -1,38 +1,38 @@
 Start Training the Model
 
 batch_size : 32  nb_epoch : 0   optimizer : adam
-	Train Loss: 1.578 | Train Acc: 27.03%	 Vl. Loss: 1.576 |  Val. Acc: 26.83% 
+	Train Loss: 1.571 | Train Acc: 29.20%	 Vl. Loss: 1.587 |  Val. Acc: 26.43% 
 batch_size : 32  nb_epoch : 1   optimizer : adam
-	Train Loss: 1.567 | Train Acc: 29.66%	 Vl. Loss: 1.569 |  Val. Acc: 29.84% 
+	Train Loss: 1.539 | Train Acc: 34.53%	 Vl. Loss: 1.553 |  Val. Acc: 33.06% 
 batch_size : 32  nb_epoch : 2   optimizer : adam
-	Train Loss: 1.553 | Train Acc: 32.57%	 Vl. Loss: 1.543 |  Val. Acc: 33.89% 
+	Train Loss: 1.480 | Train Acc: 41.27%	 Vl. Loss: 1.542 |  Val. Acc: 34.97% 
 batch_size : 32  nb_epoch : 3   optimizer : adam
-	Train Loss: 1.515 | Train Acc: 36.72%	 Vl. Loss: 1.539 |  Val. Acc: 34.14% 
+	Train Loss: 1.433 | Train Acc: 46.13%	 Vl. Loss: 1.541 |  Val. Acc: 33.65% 
 batch_size : 32  nb_epoch : 4   optimizer : adam
-	Train Loss: 1.477 | Train Acc: 41.44%	 Vl. Loss: 1.542 |  Val. Acc: 34.72% 
+	Train Loss: 1.385 | Train Acc: 51.26%	 Vl. Loss: 1.535 |  Val. Acc: 34.84% 
 batch_size : 32  nb_epoch : 5   optimizer : adam
-	Train Loss: 1.441 | Train Acc: 45.31%	 Vl. Loss: 1.522 |  Val. Acc: 36.41% 
+	Train Loss: 1.339 | Train Acc: 56.19%	 Vl. Loss: 1.546 |  Val. Acc: 34.03% 
 batch_size : 32  nb_epoch : 6   optimizer : adam
-	Train Loss: 1.401 | Train Acc: 49.70%	 Vl. Loss: 1.529 |  Val. Acc: 35.03% 
+	Train Loss: 1.308 | Train Acc: 59.25%	 Vl. Loss: 1.538 |  Val. Acc: 34.41% 
 batch_size : 32  nb_epoch : 7   optimizer : adam
-	Train Loss: 1.376 | Train Acc: 52.26%	 Vl. Loss: 1.531 |  Val. Acc: 35.76% 
+	Train Loss: 1.274 | Train Acc: 62.82%	 Vl. Loss: 1.534 |  Val. Acc: 34.57% 
 batch_size : 32  nb_epoch : 8   optimizer : adam
-	Train Loss: 1.340 | Train Acc: 56.02%	 Vl. Loss: 1.536 |  Val. Acc: 35.07% 
+	Train Loss: 1.252 | Train Acc: 65.17%	 Vl. Loss: 1.539 |  Val. Acc: 35.78% 
 batch_size : 32  nb_epoch : 9   optimizer : adam
-	Train Loss: 1.311 | Train Acc: 59.36%	 Vl. Loss: 1.553 |  Val. Acc: 33.06% 
+	Train Loss: 1.222 | Train Acc: 68.25%	 Vl. Loss: 1.543 |  Val. Acc: 34.27% 
 batch_size : 32  nb_epoch : 10   optimizer : adam
-	Train Loss: 1.294 | Train Acc: 60.92%	 Vl. Loss: 1.545 |  Val. Acc: 34.57% 
+	Train Loss: 1.202 | Train Acc: 70.44%	 Vl. Loss: 1.529 |  Val. Acc: 36.64% 
 batch_size : 32  nb_epoch : 11   optimizer : adam
-	Train Loss: 1.268 | Train Acc: 63.36%	 Vl. Loss: 1.529 |  Val. Acc: 35.20% 
+	Train Loss: 1.189 | Train Acc: 71.32%	 Vl. Loss: 1.522 |  Val. Acc: 37.37% 
 batch_size : 32  nb_epoch : 12   optimizer : adam
-	Train Loss: 1.253 | Train Acc: 64.99%	 Vl. Loss: 1.535 |  Val. Acc: 34.55% 
+	Train Loss: 1.165 | Train Acc: 74.39%	 Vl. Loss: 1.536 |  Val. Acc: 36.16% 
 batch_size : 32  nb_epoch : 13   optimizer : adam
-	Train Loss: 1.228 | Train Acc: 67.73%	 Vl. Loss: 1.538 |  Val. Acc: 35.67% 
+	Train Loss: 1.151 | Train Acc: 75.54%	 Vl. Loss: 1.530 |  Val. Acc: 36.83% 
 batch_size : 32  nb_epoch : 14   optimizer : adam
-	Train Loss: 1.212 | Train Acc: 69.55%	 Vl. Loss: 1.542 |  Val. Acc: 34.09% 
+	Train Loss: 1.136 | Train Acc: 77.09%	 Vl. Loss: 1.526 |  Val. Acc: 36.45% 
 
 
 Testing the Model
 
 
-	 Test Loss: 1.514 |  Test Acc: 37.89% 
+	 Test Loss: 1.520 |  Test Acc: 37.75% 
